@@ -1,39 +1,30 @@
 # 100 Days Of Code - Log
 
-### Day 1: Sept 04, Friday
+### Day 0: February 30, 2016 (Example 1)
+##### (delete me or comment me out)
 
-**Today's Progress**: I've gone through week 5, part 1 videos for Algorithms Part 1 Course on Coursera
+**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
 
-**Thoughts** I've realised it's better to stick to only spending 1 hour, at a time, on these tough coding tasks. 
+**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
-**Link(s) to work**
-1. [Algorithms Part 1, Week 5 Lectures](https://www.coursera.org/learn/algorithms-part1/lecture/wIUNW/2-3-search-trees)
+**Link to work:** [Calculator App](http://www.example.com)
 
-### Day 2: Sept 05, Saturday
+### Day 0: February 30, 2016 (Example 2)
+##### (delete me or comment me out)
 
-**Today's Progress**: I've gone through week 5, part 2 videos for Algorithms Part 1 Course on Coursera
+**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
 
-**Thoughts** Enjoying working on coding tasks for just 1 hour each day as it's slow progress, putting one foot ahead of the other. 
+**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
-**Link(s) to work**
-1. [Algorithms Part 1, Week 5 Lectures](https://www.coursera.org/learn/algorithms-part1/lecture/wSISD/1d-range-search)
-
-### Day 3: Sept 06, Sunday
-
-**Today's Progress**: Started working on the problem set for week 5 Algorithms Part 1 Course on Coursera
-
-**Thoughts** 1 hour, a day at a time. Just keep swimming.
-
-**Link(s) to work**
-1. [Algorithms Part 1, Week 5 Problem Set](https://www.coursera.org/learn/algorithms-part1/programming/wuF0a/kd-trees)
+**Link(s) to work**: [Calculator App](http://www.example.com)
 
 
-### Day 4: Sept 08, Tuesday
+### Day 1: June 27, Monday
 
-**Today's Progress**: Completed problem set for week 5 Algorithms Part 1 Course on Coursera
+**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
-**Thoughts** Missed a day yesterday as I went to gym after work but back on today.
+**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
 
 **Link(s) to work**
-1. [Algorithms Part 1, Week 5 Problem Set](https://www.coursera.org/learn/algorithms-part1/programming/wuF0a/kd-trees)
-
+1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
+2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
